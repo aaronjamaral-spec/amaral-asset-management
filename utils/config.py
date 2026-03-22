@@ -12,7 +12,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # API Keys
-FRED_API_KEY = os.getenv("FRED_API_KEY", "your_fred_api_key_here")
+FRED_API_KEY = os.getenv("FRED_API_KEY", "d11ef2371ab1996d1af18c6c02b6491d")
 
 # Fund Universe Parameters
 UNIVERSE = {
