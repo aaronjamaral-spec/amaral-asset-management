@@ -161,4 +161,4 @@ Amaral Asset Management is a model portfolio constructed for investment research
 
 ---
 
-*Built by [@yourusername](https://github.com/yourusername) · [Mithril Multi-Asset on Substack](https://substack.com) · CFA · CAIA*
+*Built by [@aaronjamaral-spec](https://github.com/aaronjamaral-spec) · [Mithril Multi-Asset on Substack](https://substack.com) · CFA · CAIA*
