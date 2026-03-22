@@ -1,0 +1,32 @@
+# Amaral Asset Management — Python dependencies
+# Install with: pip install -r requirements.txt
+
+# Data sourcing
+yfinance>=0.2.36
+pandas>=2.0.0
+numpy>=1.26.0
+requests>=2.31.0
+fredapi>=0.5.1
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
+sec-edgar-downloader>=5.0.0
+
+# Modeling and analysis
+scipy>=1.12.0
+statsmodels>=0.14.0
+scikit-learn>=1.4.0
+
+# Visualization
+matplotlib>=3.8.0
+seaborn>=0.13.0
+plotly>=5.18.0
+
+# Notebooks
+jupyter>=1.0.0
+ipykernel>=6.29.0
+nbformat>=5.9.0
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm>=4.66.0
+openpyxl>=3.1.0
